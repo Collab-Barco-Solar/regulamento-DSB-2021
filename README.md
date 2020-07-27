@@ -1,6 +1,6 @@
 # Regulamento da edição de 2021
 
-|Data:|30 de Julho de 2020| 
+|Data|30 de Julho de 2020| 
 |-----|-------------------|
 |Relator|Ocione José Machado|
 |Comissão de Naval|Gustavo Ayres Leal|
@@ -10,25 +10,25 @@
 
 ## ÍNDICE
 
-1. [GERAL](#geral)
-1. [RESPONSABILIDADES TÉCNICAS E DE SEGURANÇA](#responsabilidades)
-1. [CATEGORIAS](#categorias)
-1. [EMBARCAÇÃO](#embarcação)
-1. [SISTEMAS ELÉTRICOS](#sistemas)
-  1. [PAINÉIS SOLARES](#painéis)
-  1. [BATERIAS](#baterias)
-  1. [CIRCUITOS ELÉTRICOS](#circuitos)
-1. [APARÊNCIA DA EMBARCAÇÃO](#aparência)
-1. [INSPEÇÕES](#inspeções)
-1. [INSTRUÇÕES DA COMPETIÇÃO – REGRAS GERAIS](#instruções)
-  1. [COMISSÕES](#comissões)
-  1. [PROCEDIMENTOS DURANTE A COMPETIÇÃO](#procedimentos)
-  1. [PROTESTO](#protesto)
-  1. [PENALIDADES](#penalidades)
-1. [ANEXO I- GLOSSÁRIO](#anexo1)
-1. [ANEXO II- IMAGENS](#anexo2)
-1. [ANEXO III – BANDEIRAS](#anexo3)
-1. [ANEXO IV - TESTE DE NATAÇÃO](#anexo4)
+- [GERAL](#geral)
+-   [RESPONSABILIDADES TÉCNICAS E DE SEGURANÇA](#responsabilidades)
+-   [CATEGORIAS](#categorias)
+-   [EMBARCAÇÃO](#embarcação)
+-   [SISTEMAS ELÉTRICOS](#sistemas)
+  *  [PAINÉIS SOLARES](#painéis)
+  *  [BATERIAS](#baterias)
+  *  [CIRCUITOS ELÉTRICOS](#circuitos)
+-   [APARÊNCIA DA EMBARCAÇÃO](#aparência)
+-   [INSPEÇÕES](#inspeções)
+-   [INSTRUÇÕES DA COMPETIÇÃO – REGRAS GERAIS](#instruções)
+  *  [COMISSÕES](#comissões)
+  *  [PROCEDIMENTOS DURANTE A COMPETIÇÃO](#procedimentos)
+  *  [PROTESTO](#protesto)
+  *  [PENALIDADES](#penalidades)
+-   [ANEXO I- GLOSSÁRIO](#anexo1)
+-   [ANEXO II- IMAGENS](#anexo2)
+-   [ANEXO III – BANDEIRAS](#anexo3)
+-   [ANEXO IV - TESTE DE NATAÇÃO](#anexo4)
 
 
 # 1. GERAL
