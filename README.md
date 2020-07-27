@@ -237,6 +237,7 @@ Exemplo: Se o barco completamente carregado e com o piloto possuir a soma total 
 |Ni MH|1,2|1,6|37|59,2|
 |Litio Ion ou Lítio Polímero|3,7|4,2|14|58,8|
 |LiFePO4|3,2|3,6|16|57,6|
+
 *Para chumbo-ácido considerou-se o valor comercial da associação de 6 células de 2 V.
 
 5.2.10 - A bateria principal será carregada somente através dos painéis solares. Os participantes poderão começar a competição com a bateria totalmente carregada. Toda a energia solar disponível durante a competição pode ser usada para propulsão e/ou recarga da bateria principal. Os painéis solares podem também ser usados de manhã, antes da etapa seguinte, ou de tarde, depois de completada a etapa do dia, com o objetivo de aproveitar a  luz do sol disponível para gerar eletricidade e carregar as baterias. É permitido extrair energia do motor com o uso de curtos disparos do “freio regenerativo” da embarcação. O uso de outras formas de energia para carregar as baterias durante o DSB resultará em desclassificação.
