@@ -57,9 +57,17 @@
 
 3.1 - No DSB será aceita apenas inscrições de equipes na Classe LIVRE.
 
-3.2 - Classe LIVRE: Embarcação construída de forma livre atendendo estas REGRAS DE COMPETIÇÃO DO DSB OBS. As embarcações da antiga Classe Catamarã Padrão DSB vigente entre 2009 e 2020 passam a integrar a Classe LIVRE.
+3.2 - Classe LIVRE: Embarcação construída de forma livre atendendo estas REGRAS DE COMPETIÇÃO DO DSB 
 
-  1. [PROTESTO](#protesto)da antena de comunicação que, quando exceder a altura máxima, deverá ser avaliada e aprovada pela Comissão Técnica.
+OBS. As embarcações da antiga Classe Catamarã Padrão DSB vigente entre 2009 e 2020 passam a integrar a Classe LIVRE.
+
+3.4 - Características principal para a classe:
+
+3.4.1 - Comprimento total de no máximo 6.0 m. O comprimento total é medido do extremo de proa ao extremo de popa, incluindo motor, leme ou qualquer anexo. Caso alguma equipe exceda mais que 0,5% o comprimento total será desqualificada. (ver figura 1 no Anexo II)
+
+3.4.2 - Boca máxima de 2.4 m. (ver figura 1 no Anexo II)
+
+3.4.3 - Altura máxima acima da linha d'água de 1.3 m. A altura acima da linha d’água deve ser limitada pela especificação de altura, com exceção da antena de comunicação que, quando exceder a altura máxima, deverá ser avaliada e aprovada pela Comissão Técnica.
 
 3.4.4 - A largura mínima das cabines é de 46 cm para barcos que pertenciam a antiga classe Catamarã Padrão DSB e de 50 cm para os demais barcos da classe LIVRE.
 
