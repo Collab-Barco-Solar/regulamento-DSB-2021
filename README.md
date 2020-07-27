@@ -311,9 +311,7 @@ interior da caixa. Nem a bateria pode ser montada em uma base de metal ou fibra 
 
 5.3.6 - Deve ser instalado imediatamente a jusante (considerando a bateria como fonte de energia) do fusível descrito no item acima, um dispositivo que interrompa o circuito da bateria. Este dispositivo pode ser um disjuntor, uma chave seccionadora ou uma contatora e seu acionamento deve ser de tal forma que possa ser realizado sem a quebra do selo/lacre de inspeção descrito no item 5.3.9.
 
-5.3.7 - Caso a equipe opte pela utilização de bateria auxiliar na embarcação, os itens 5.2.18.3,
-
-5.3.5 e 5.3.6 devem ser cumpridos.
+5.3.7 - Caso a equipe opte pela utilização de bateria auxiliar na embarcação, os itens 5.2.18.3, 5.3.5 e 5.3.6 devem ser cumpridos.
 
 5.3.8 - O dimensionamento e a proteção dos condutores baseiam-se nas recomendações da NBR 5410. Para facilitar a consulta, segue abaixo uma tabela relativa a condutores isolados com PVC (70°C) instalados em ambiente ventilado.
 
