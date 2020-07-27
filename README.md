@@ -177,7 +177,7 @@ Exemplo: Se o barco completamente carregado e com o piloto possuir a soma total 
 
 
 # 5. SISTEMAS ELÉTRICOS
-## 5.1- PAINÉIS SOLARES
+## 5.1 PAINÉIS SOLARES
 
 5.1.1 - A capacidade instalada de painéis solares nas embarcações está limitada pela área de captação de energia solar definida pelo somatório da superfície exposta de cada célula fotovoltaica.
 
@@ -199,7 +199,7 @@ Exemplo: Se o barco completamente carregado e com o piloto possuir a soma total 
 
 5.1.9 - Recomenda-se considerar o uso de diodos de bloqueio e bypass para evitar a reversão de corrente entre os painéis solares.
 
-## 5.2- BATERIAS
+## 5.2 BATERIAS
 
 5.2.1 - O tipo e o peso da bateria serão avaliados durante a inspeção técnica, devendo a equipe competidora, enviar a folha de dados do fabricante, por e-mail, a comissão técnica com antecedência mínima de 15 (quinze) dias do início do DSB.
 
@@ -293,7 +293,7 @@ interior da caixa. Nem a bateria pode ser montada em uma base de metal ou fibra 
 
 5.2.22 - O lacre das baterias principal e auxiliar poderá ser verificado pela Comissão Técnica sempre que esta julgar necessário.
 
-## 5.3- CIRCUITOS ELÉTRICOS
+## 5.3 CIRCUITOS ELÉTRICOS
 
 5.3.1 - Todos os componentes condutores de energia devem ser isolados para prevenir a ocorrência de situações de perigo no caso de contato ou exposição à água. Todas as conexões elétricas devem estar dentro de caixas herméticas comerciais, com a fiação passando por prensa-cabos, inclusive as do painel de mostradores e com todos os cabos identificados conforme o projeto.
 
@@ -383,8 +383,7 @@ Exemplo: Se a corrente nominal do motor for 40 A, o condutor recomendado será d
 
 # 8. INSTRUÇÕES DA COMPETIÇÃO – REGRAS GERAIS
 
-## 8.1- COMISSÕES
-
+## 8.1 COMISSÕES
 
 8.1.1 - A Comissão de Competição (CC) deverá ser constituída por um Júri de 3 (três) membros, o presidente e mais 2 (dois) juízes, que terão seus nomes divulgados nas Instruções de Competição.
 
@@ -408,7 +407,7 @@ Exemplo: Se a corrente nominal do motor for 40 A, o condutor recomendado será d
 
 8.1.5.2 - A CP é soberana e possui autonomia para decidir sobre situações omissas as regras, instruções ou tipos de penalidades.
 
-## 8.2- PROCEDIMENTOS DURANTE A COMPETIÇÃO
+## 8.2 PROCEDIMENTOS DURANTE A COMPETIÇÃO
 
 8.2.1 - As embarcações só poderão ser conduzidas por pilotos qualificados. Considera-se piloto qualificado aqueles que: tenha habilitação expedida pela marinha do Brasil ou seu equivalente internacional; tenha sido aprovado no teste de natação descrito no Anexo III; e tenha sido submetido a verificação descrita no item 7.2.
 
@@ -449,7 +448,7 @@ Exemplo: Se a corrente nominal do motor for 40 A, o condutor recomendado será d
 
 8.2.8 - Um barco que partir depois que a CC finalizar o procedimento de largada será, sem audiência, considerado como não tendo partido, ou seja, DNS (Did Not Start).
 
-8.2.9 - Largada Irregular: Em caso de largada irregular por um ou mais participantes, a CCtomará um dos seguintes procedimentos:
+8.2.9 - Largada Irregular: Em caso de largada irregular por um ou mais participantes, a CC tomará um dos seguintes procedimentos:
 
 Caso 1: O barco irregular é identificado e não houve prejuízo para os demais.
 
@@ -463,7 +462,7 @@ Procedimento: Imediatamente é hasteada a bandeira “1a Substituta” de “Cha
 
 8.2.11 - Os barcos que chegarem depois do tempo limite de cada prova serão consideradosDNF (Did Not Finish) O tempo limite de cada prova será afixado no Quadro Oficial deAvisos do DSB, juntamente com o percurso do dia.
 
-## 8.3- PROTESTO
+## 8.3 PROTESTO
 
 8.3.1 - Ao protestar, o concorrente deverá informar ao protestado, em voz alta ou via rádio, que este está sob protesto, e por qual motivo. De preferência deverá também identificar uma testemunha do fato ocorrido.
 
@@ -493,7 +492,7 @@ Procedimento: Imediatamente é hasteada a bandeira “1a Substituta” de “Cha
 8.3.8 - A Comissão de protestos é soberana e possui autonomia para decidir sobre situações omissas as regras ou tipos de penalidades. Os resultados das audiências serão afixados no Quadro Oficial de Avisos e são inapeláveis.
 
 
-## 8.4- PENALIDADES
+## 8.4 PENALIDADES
 
 
 8.4.1 - O critério de definição das colocações em uma prova, etapa ou campeonato será definido pela Organização, podendo ser por tempo, distância, pontuação ou outro qualquer, ao seu desejo.
