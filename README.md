@@ -423,11 +423,12 @@ Exemplo: Se a corrente nominal do motor for 40 A, o condutor recomendado será d
 8.2.5.1 - O DSB utiliza sistema de sinalização de largada coletiva das provas conforme ossinais abaixo indicados. Os tempos serão contados a partir dos sinais visuais; a ausência de um sinal sonoro não será considerada como falta de sinalização.
 
 |Minutos antes do sinal de largada|Sinal Visual|Sinal Sonoro|Significado|
-|---------------------------------|------------|------------|-----------|
+|  :----------------------------:  |  :------:  |  :------: |  :-----:  |
 |5*|Bandeira da Classe|Um|Sinal de atenção|
 |4|P, I, Z, Z c/ I, U ou bandeira preta|Um|Sinal de preparação|
 |1|Sinal de preparação removido|Um longo|Um minuto para a largada|
 |0|Bandeira da Classe removida|Um|Sinal de largada|
+
 *ou como indicado nas Instruções de Regata
 
 8.2.5.1.1 - Regra da Bandeira I: Se a bandeira I foi exposta e qualquer parte do casco, tripulante ou equipamento de um barco estiver além da linha de largada ou um de seus prolongamentos, durante o minuto que antecede o seu sinal de largada, antes de largar ele deve retornar para o lado da pré largada da linha, cruzando por um dos lados de seus prolongamentos.
