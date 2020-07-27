@@ -223,17 +223,13 @@ Exemplo: Se o barco completamente carregado e com o piloto possuir a soma total 
 
 5.2.9 - A quantidade de células em série multiplicadas pelo valor máximo de tensão de carga da célula não pode exceder 60 V CC. A tabela, a seguir, demonstra as associações para obtenção das tensões máximas permitidas para cada tipo de bateria:
 
-
-
-
-
-
-
-
-
-
-
-
+|Tipo de Célula de bateria|Tensão nominal(V)|Tensão máxima de carga(V)|Número máximo de células em série| Tensão máxima do Controlador de carga(V)|
+|-------------------------|-----------------|-------------------------|---------------------------------|-----------------------------------------|
+|Chumbo ácido *|12|14,4|4|57,6|
+|Ni MH|1,2|1,6|37|59,2|
+|Litio Ion ou Lítio Polímero|3,7|4,2|14|58,8|
+|LiFePO4|3,2|3,6|16|57,6|
+*Para chumbo-ácido considerou-se o valor comercial da associação de 6 células de 2 V.
 
 5.2.10 - A bateria principal será carregada somente através dos painéis solares. Os participantes poderão começar a competição com a bateria totalmente carregada. Toda a energia solar disponível durante a competição pode ser usada para propulsão e/ou recarga da bateria principal. Os painéis solares podem também ser usados de manhã, antes da etapa seguinte, ou de tarde, depois de completada a etapa do dia, com o objetivo de aproveitar a  luz do sol disponível para gerar eletricidade e carregar as baterias. É permitido extrair energia do motor com o uso de curtos disparos do “freio regenerativo” da embarcação. O uso de outras formas de energia para carregar as baterias durante o DSB resultará em desclassificação.
 
@@ -312,17 +308,22 @@ interior da caixa. Nem a bateria pode ser montada em uma base de metal ou fibra 
 
 5.3.8 - O dimensionamento e a proteção dos condutores baseiam-se nas recomendações da NBR 5410. Para facilitar a consulta, segue abaixo uma tabela relativa a condutores isolados com PVC (70°C) instalados em ambiente ventilado.
 
+|Área de seção do condutor (mm²)|Corrente nominal máxima da fiação(A)|Expectativa de Corrente(A)|
+|  :-----------------------:    |  :----------------------------:    |   :-------------------:  |
+|1,5|20|13|
+|2,5|27|18|
+|4|36|24|
+|6|46|30|
+|10|62|41|
+|16|80|53|
+|25|105|70|
+|35|125|83|
+|50|155|103|
+|75|195|130|
+|95|235|156|
+|120|270|180|
 
-
-
-
-
-
-
-
-
-
-
+Exemplo: Se a corrente nominal do motor for 40 A, o condutor recomendado será de, no mínimo, 10 mm².
 
 5.3.9 - Deve ser possível lacrar todas as conexões elétricas entre os painéis solares, o painel de controle da embarcação, o sistema de propulsão e os sistemas de armazenamento com lacre plástico numerado tipo “abraçadeira”, ver figura 4. A organização lacrará vários desses sistemas durante a inspeção técnica. Caso haja a necessidade de violar o lacre, a equipe deve notificar à organização o quanto antes. A embarcação não poderá participar da competição caso o lacre esteja violado. A embarcação poderá tornar a competir uma vez que seja submetida a uma nova inspeção e o sistema seja lacrado novamente. Se o lacre for encontrado violado, a comissão técnica pode, a seu critério, anular a participação da equipe na etapa anterior ao ocorrido ou da competição.
 
@@ -414,9 +415,13 @@ interior da caixa. Nem a bateria pode ser montada em uma base de metal ou fibra 
 
 8.2.5.1 - O DSB utiliza sistema de sinalização de largada coletiva das provas conforme ossinais abaixo indicados. Os tempos serão contados a partir dos sinais visuais; a ausência de um sinal sonoro não será considerada como falta de sinalização.
 
-
-
-
+|Minutos antes do sinal de largada|Sinal Visual|Sinal Sonoro|Significado|
+|---------------------------------|------------|------------|-----------|
+|5*|Bandeira da Classe|Um|Sinal de atenção|
+|4|P, I, Z, Z c/ I, U ou bandeira preta|Um|Sinal de preparação|
+|1|Sinal de preparação removido|Um longo|Um minuto para a largada|
+|0|Bandeira da Classe removida|Um|Sinal de largada|
+*ou como indicado nas Instruções de Regata
 
 8.2.5.1.1 - Regra da Bandeira I: Se a bandeira I foi exposta e qualquer parte do casco, tripulante ou equipamento de um barco estiver além da linha de largada ou um de seus prolongamentos, durante o minuto que antecede o seu sinal de largada, antes de largar ele deve retornar para o lado da pré largada da linha, cruzando por um dos lados de seus prolongamentos.
 
